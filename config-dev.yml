@@ -1,2 +1,2 @@
 config:
- info: dev,test ,three
+ info: dev,test ,version=7
