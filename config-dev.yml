@@ -1,2 +1,2 @@
 config:
- info: dev,test
+ info: dev,test ,one
